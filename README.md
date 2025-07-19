@@ -9,9 +9,6 @@ A simple and interactive CLI tool to run **Nmap** scans with ease, supporting bo
 - Clean command-line interface (CLI)
 - Quick access to 5 scan types: Fast, Full, Vulnerability, Network, and Custom
 - **Custom scan** allows combining **33+ advanced Nmap options**
-- Language selection: English or Arabic
-- Beautiful ASCII banner on startup
-- Automatically returns to menu after each scan
 - Developed by: `sudo`
 
 ---
